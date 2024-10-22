@@ -10,4 +10,4 @@ Here's a clickable link: [Shiny](https://shiny.posit.co/py/docs/overview.html)
 
 ![Smile](https://play-lh.googleusercontent.com/BnFTd0-MYyahlhRzGU9sylxchFQlwClUIJMBGkrltUkqrTvYVpGKMIWLssiRzl6mUQ=w600-h300-pc0xffffff-pd)
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-dinky
